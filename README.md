@@ -4,12 +4,12 @@
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Install dependencies, if there are any.
-1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [diagnostic.md](diagnostic.md).
-1.  Before the allotted time is up, push to your fork and issue a pull request.
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Install dependencies, if there are any.
+1. Create and checkout a new branch, named `response`.
+1. Follow the directions given in [diagnostic.md](diagnostic.md).
+1. Before the allotted time is up, push to your fork and issue a pull request.
 
 Your pull request description should contain a "fist to five" for comfort and
 clarity. Additionally, you should mention the resources you used to help you
@@ -38,6 +38,6 @@ your responses are correct.
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
