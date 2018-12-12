@@ -21,13 +21,13 @@ Write the `curl` request you'd use to retrieve a list of **all donuts** on the
 server.
 
 ```sh
-# your answear here
+# your answer here
 ```
 
 Write an AJAX request to retrieve a list of **all donuts** on the server.
 
 ```js
-let getDonuts = /* your answear here */;
+let getDonuts = /* your answer here */;
 ```
 
 ## Request a Single Resource
@@ -36,13 +36,13 @@ Now, we want to get a **single donut** from the server. Write the `curl` request
 you'd use to retrieve a **single donut**, using whatever ID you'd like.
 
 ```sh
-# your answear here
+# your answer here
 ```
 
 Write an AJAX request to retrieve a **single donut** from the server.
 
 ```js
-let getDonut = /* your answear here */;
+let getDonut = /* your answer here */;
 ```
 
 ## Delete a Single Resource
@@ -51,13 +51,13 @@ Write the `curl` request you'd use to delete a single donut, using whatever
 ID you'd like.
 
 ```sh
-# your answear here
+# your answer here
 ```
 
 Write an AJAX request to delete a single donut from the server.
 
 ```js
-let deleteDonut = /* your answear here */;
+let deleteDonut = /* your answer here */;
 ```
 
 ## Create a Single Resource
@@ -73,14 +73,14 @@ data in JSON format.
 ```
 
 ```sh
-# your answear here
+# your answer here
 ```
 
 Write an AJAX request to create a single donut on the server using JSON. Please
 do not use `data = getFormFields(form)` instead write out the data object.
 
 ```js
-let createDonut = /* your answear here */;
+let createDonut = /* your answer here */;
 ```
 
 ## Change a Single Resource
@@ -100,11 +100,11 @@ object.
 ```
 
 ```sh
-# your answear here
+# your answer here
 ```
 
 Write an AJAX request to change the donut on the server using JSON.
 
 ```js
-let changeDonut = /* your answear here */;
+let changeDonut = /* your answer here */;
 ```
